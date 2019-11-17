@@ -1,0 +1,20 @@
+{
+  "name": "rsvp_web",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Jacob Parry <griever815@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jacobparry/DivvyCodeChallenge",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

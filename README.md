@@ -1,2 +1,4 @@
-# rsvp_umbrella
-Code exercise from Pluralsight
+# RsvpUmbrella
+
+**TODO: Add description**
+
